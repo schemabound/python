@@ -129,7 +129,8 @@ def db_session_factory():
     # Allow override for Dolt if explicitly requested
     if os.getenv("SCHEMABOUND_TEST_USE_DOLT"):
         db_url = os.getenv(
-            "SCHEMABOUND_TEST_DB_URL", "mysql+mysqlconnector://root@127.0.0.1:3307/schemabound_dev"
+            "SCHEMABOUND_TEST_DB_URL",
+            "mysql+mysqlconnector://root@127.0.0.1:3307/schemabound_dev",
         )
 
     try:

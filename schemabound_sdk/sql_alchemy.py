@@ -30,7 +30,9 @@ class SchemaboundDeclarativeBase:
         with SCHEMABOUND Agent Tools.
         """
         if inspect is None:
-            raise ImportError("SQLAlchemy is required to use SchemaboundDeclarativeBase")
+            raise ImportError(
+                "SQLAlchemy is required to use SchemaboundDeclarativeBase"
+            )
 
         mapper = inspect(cls)
         schema = {
