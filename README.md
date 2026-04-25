@@ -1,6 +1,6 @@
 # schemabound-sdk
 
-Python SDK for the [OAM (Object Agent Mapping)](https://github.com/schemabound/schemabound) framework. Connects Python applications to the OAM runtime over gRPC with SQLAlchemy model registration and all three schema modes.
+Python SDK for the [OAM (Object Agent Mapping)](https://github.com/schemabound/enterprise) framework. Connects Python applications to the OAM runtime over gRPC with SQLAlchemy model registration and all three schema modes.
 
 ## Installation
 
