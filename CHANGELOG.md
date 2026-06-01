@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/schemabound/enterprise/compare/schemabound-sdk-v0.2.1...schemabound-sdk-v0.2.2) (2026-06-01)
+
+
+### Bug Fixes
+
+* update subtrees.conf to use deduplicated repo names ([597500f](https://github.com/schemabound/enterprise/commit/597500f21dd2c4ad327450d8fc10693f1bdc43e0))
+
 ## [0.2.1](https://github.com/schemabound/enterprise/compare/schemabound-sdk-v0.2.0...schemabound-sdk-v0.2.1) (2026-06-01)
 
 
