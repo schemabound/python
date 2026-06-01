@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/schemabound/enterprise/compare/schemabound-sdk-v0.2.0...schemabound-sdk-v0.2.1) (2026-06-01)
+
+
+### Bug Fixes
+
+* address all 14 Copilot PR review comments ([e1ec9f0](https://github.com/schemabound/enterprise/commit/e1ec9f0f5e7588a8a7b6cfd38deb9154b08a9173))
+
 ## [0.2.0](https://github.com/schemabound/enterprise/compare/schemabound-sdk-v0.1.0...schemabound-sdk-v0.2.0) (2026-05-05)
 
 
